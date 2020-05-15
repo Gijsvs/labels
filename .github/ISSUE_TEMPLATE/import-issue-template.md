@@ -2,7 +2,7 @@
 name: Import Issue Template
 about: Something related an import is not working as expected
 title: Company Name - Very short description of the issue
-labels: ''
+labels: 'Tool: Imports'
 assignees: ''
 
 ---

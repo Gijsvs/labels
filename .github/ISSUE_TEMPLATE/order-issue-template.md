@@ -2,7 +2,7 @@
 name: Order Issue Template
 about: Something related to orders is not working as expected
 title: Company Name - Very short description of the issue
-labels: ''
+labels: 'Tool: Orders'
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Ads Issue Template
 about: Something related to the Ads is not working as expected
 title: Company Name - Very short description of the issue
-labels: ''
+labels: 'Tool: Text ads'
 assignees: ''
 
 ---

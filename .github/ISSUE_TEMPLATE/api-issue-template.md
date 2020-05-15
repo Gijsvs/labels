@@ -2,7 +2,7 @@
 name: Api Issue Template
 about: Something related to an API is not working as expected
 title: Company Name - Very short description of the issue
-labels: ''
+labels: 'Tool: API Exports'
 assignees: ''
 
 ---
