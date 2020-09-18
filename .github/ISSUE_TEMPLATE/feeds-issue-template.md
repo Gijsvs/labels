@@ -1,15 +1,11 @@
 ---
-name: Ads Issue Template
-about: Something related to the Ads is not working as expected
+name: Feeds Issue Template
+about: Something related to the Feeds is not working as expected
 title: Company Name - Very short description of the issue
-labels: 'Tool: Text ads'
+labels: 'Tool section: Feeds'
 assignees: ''
 
 ---
-
-**Ads Channel**
-Include the channel in which the problem occurs. Please also select this channel from the available labels
-Example: Google Ads
 
 **Current behavior**
 Please describe the current - faulty behavior
